@@ -25,7 +25,7 @@ System.out.println("k=" +d +t  +f +s);
 System.out.println("gh");
 System.out.println();
 System.out.println();
-		
+System.out.println("Ln");
 		
 		
 	}
